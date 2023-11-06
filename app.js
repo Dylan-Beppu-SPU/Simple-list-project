@@ -24,7 +24,7 @@ app.get("/api", async (req,res) => {
 //Post
 app.post("/api", async (req,res) => {
   // console.log(req)
-  console.log("---------------------------------")
+  // console.log("---------------------------------")
   // console.log(res.body)
   let jsonString = JSON.stringify(req.body);
   // console.log(req.body);

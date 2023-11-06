@@ -19,7 +19,7 @@ async function WriteData(dataOut) {
   try {
     // Write the file
     await fs.writeFile('data.json', JSON.stringify(dataOut));
-    console.log('Data written to file');
+    // console.log('Data written to file');
     return true;
   } catch (error) {
     console.error(`Error when reading data: ${error}`);

@@ -1,3 +1,5 @@
+Just as a note, Hawaiikaiboy is my personal
+
 # Instructions for setting up the Simple List Project
 
 - Create a project folder and make it the active folder.
